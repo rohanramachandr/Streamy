@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "description": "this is a some stream",
+      "title": "other stream",
+      "id": 2
+    },
+    {
+      "title": "i created this stream",
+      "description": "this was created by me",
+      "userId": "113786658455581147729",
+      "id": 3
+    },
+    {
+      "title": "I created this stream",
+      "description": "this stream was created by me",
+      "userId": "113786658455581147729",
+      "id": 4
+    },
+    {
+      "title": "I created this stream",
+      "description": "this stream is created by me",
+      "userId": "113786658455581147729",
+      "id": 5
+    },
+    {
+      "title": "I created this stream",
+      "description": "this stream is created by me",
+      "userId": "113786658455581147729",
+      "id": 6
+    },
+    {
+      "title": "i created this stream",
+      "description": "thi stream was created by me",
+      "userId": "113786658455581147729",
+      "id": 7
+    }
+  ]
+}
